@@ -1,3 +1,4 @@
+![Headshot](diver_ryne.jpg)
 # A little insight into Ryne Smith
 Hello, there. I am Ryne Smith and I am currently an associate fleet technician for the autonomous driving company, Waymo. This README serves as a way for me to provide a bit more information about myself.
 
